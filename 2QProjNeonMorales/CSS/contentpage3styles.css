@@ -1,0 +1,140 @@
+<!--CSS FILE FOR CONTENT PAGE 3-->
+
+        #container {
+        width:1865px;
+        margin: 0 auto;
+		font-family: Courier;
+		background-color:#FBFAF2;
+        }
+		
+        .topnav {
+		float: center;
+		overflow: hidden;
+        text-align:center;
+        margin:auto;
+		padding-bottom: 70px;
+		font-family:Courier New;
+		font-weight:bold;
+        }
+
+        .topnav a {
+        float: center;
+        color: #ffffff;
+        text-align: center;
+        padding: 25px 30px;
+        text-decoration: none;
+        font-size: 30px;
+		color: #FBFAF2;
+		text-shadow: 2px 2px black;
+        }
+
+        .topnav a:hover {
+        color: #D21404;
+		text-shadow: 2px 2px #FBFAF2;
+        }
+
+        .topnav a.active {
+        color: #D21404;
+        }
+	    
+		.header {
+		font-family:Courier;
+		background-color: #333333;
+		border: solid;
+		color: #D21404;
+		}
+		
+        .header img {
+        float:left;
+		position: relative;
+        }
+
+        .header h1 {
+		position: relative;
+		padding-top: 35px;
+        bottom: 25px;
+		left: 20px;
+        }
+		
+        hr {
+        width: 100%;
+        height:2px;
+        margin-top: 15px;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: #232023;
+        }
+		
+		video{
+		width: 480 px;
+		height: 530px;
+		padding-top: 15px;
+		}
+		
+		.Titles	p{
+		font-family:Courier;
+		text-align:center;
+		color:#333333;
+		font-weight: bold;
+		font-size: 25px;
+        }		
+		.footer-container{
+		font-family:Courier;
+		background-color: #333333;
+		width:1860px;
+		height:315px;
+		border:solid;
+		color:#D21404;
+		}
+		
+		.footer-headingfooter-1{
+		color:#FBFAF2;
+		padding: 10px 0px 0px 10px;
+		}
+		
+        .footer-container a{
+		padding: 0px 0px 10px 10px;
+		}
+		
+		.footer img{
+		clear: both;
+		float:right;
+		padding-top:22px;
+		padding-right:22px;
+		padding-bottom: 20px;
+		position: relative;	
+		}
+		
+		.youtube {
+	    background: url('../images/iconsgrey.png') no-repeat -365px -26px;
+	    width: 75px;
+	    height: 53px;
+		float:left;
+		display: block;
+		}
+		
+		.youtube:hover{
+	    background: url('../images/icons.png') no-repeat -365px -26px;
+		}
+		
+		.facebook {
+	    background: url('../images/iconsgrey.png') no-repeat -135px -15px;
+	    width: 75px;
+	    height: 74px;
+		float:left;
+        }
+		
+		.facebook:hover{
+	    background: url('../images/icons.png') no-repeat -135px -15px;
+		}
+		
+		.instagram {
+	    background: url('../images/iconsgrey.png') no-repeat -20px -15px;
+	    width: 75px;
+	    height: 74px;
+		float:left;
+        }
+		
+		.instagram:hover {
+	    background: url('../images/icons.png') no-repeat -20px -15px;
+		}
